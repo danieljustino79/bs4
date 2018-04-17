@@ -1,1 +1,1 @@
-<?php echo 'ok'; ?>
+<?php include_once("index.htm"); ?>
